@@ -1,16 +1,6 @@
-# Sample_program
 
-#WAP to print a DNA sequence
+# This is a repo for python programs to solve simple problems in biology
 
-#input
-bio_seq = input("Enter a DNA sequence: ")
+# Code snippets will be posted 
 
-#print the input string
-print(bio_seq)
-
-#user
-Enter a DNA sequence: ATGCATGCATGCATGCATGCATGCATGCATGCATGC
-
-#output
-"ATGCATGCATGCATGCATGCATGCATGCATGCATGC"
-
+# Repo will carry codes for analysing both protein and DNA sequences
