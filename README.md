@@ -1,6 +1,4 @@
 # Biology ==> Python
-This is a hello world repository.
-
 
 #Tutorial on python by solving biolgical problems
 
