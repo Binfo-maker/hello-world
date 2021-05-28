@@ -1,8 +1,8 @@
-# hello-world_Python
+# Biology ==> Python
 This is a hello world repository.
 
-#Plausible solutions to biological problems would be posted here 
-#Python would be the preferred language for this repo
+
+#Tutorial on python by solving biolgical problems
 
 #Welcome program
 
