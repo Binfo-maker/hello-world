@@ -1,3 +1,10 @@
 # hello-world
 This is a hello world repository.
-I'll include code snippet of "Hello World!" program.
+
+#program
+
+var_a = "Hello World!"
+print(var_a)
+
+#output
+"Hello World!"
