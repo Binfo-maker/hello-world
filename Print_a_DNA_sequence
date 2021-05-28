@@ -1,0 +1,34 @@
+#Program_1
+
+#WAP to print a DNA sequence
+
+#input
+bio_seq = input("Enter a DNA sequence: ")
+
+#print the input string
+print(bio_seq)
+
+#output:
+Enter a DNA sequence:
+
+#user can chose to write in either ways
+
+#input_upper_case_letters
+ATGCATGCATGCATGCATGCATGCATGCATGCATGC
+
+#input_lower_case_letters
+atgcatgcatgcatgcatgcatgcatgcatgcatgc
+
+#input_mixed_case_letters
+atgcatATGCCTGATGAcatgcatgcatgcatgc
+
+#output
+"ATGCATGCATGCATGCATGCATGCATGCATGCATGC"
+          ***OR***
+"atgcatgcatgcatgcatgcatgcatgcatgcatgc"
+           ***OR***
+"atgcatATGCCTGATGAcatgcatgcatgcatgc"
+
+#program ends here
+
+
